@@ -1,4 +1,4 @@
-package leet;
+package leet.indexhash;
 
 import java.util.HashSet;
 import java.util.Set;

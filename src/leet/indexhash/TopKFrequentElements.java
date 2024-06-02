@@ -14,7 +14,7 @@ Input: nums = [1], k = 1
 Output: [1]
  */
 
-package leet;
+package leet.indexhash;
 
 import java.util.ArrayList;
 import java.util.Arrays;
